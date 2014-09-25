@@ -1,0 +1,24 @@
+{
+  "name": "file-watcher",
+  "version": "0.0.0",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.8",
+    "gulp-git": "^0.5.1",
+    "gulp-watch": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmadden85/design-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmadden85/design-test/issues"
+  },
+  "homepage": "https://github.com/jmadden85/design-test"
+}
